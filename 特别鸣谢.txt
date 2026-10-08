@@ -1,0 +1,6 @@
+【音频素材】
+滑膛枪的拉栓声 许可:CC-BY 作者:IchBinJager 来源:耳聆网 https://www.ear0.com/sound/11452（mech_bolt.wav）
+手枪换弹夹上膛 许可:CC0 作者:胆小虫 来源:耳聆网 https://www.ear0.com/sound/13353（mech_reload_done.wav、mech_switch.wav）
+【角色素材】
+FBI | CS2 Agent Model №2 许可:CC-BY 作者:gettan 来源:Sketchfab https://sketchfab.com/3d-models/fbi-cs2-agent-model-no2-a27577f5052e41d6b48571afd13c1fd4
+SAS | CS2 Agent Model Green 许可:CC-BY 作者:gettan 来源:Sketchfab https://sketchfab.com/3d-models/sas-cs2-agent-model-blue-7f18aaccd0ee4694a36646101a12339e

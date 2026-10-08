@@ -1,0 +1,43 @@
+# ---- Godot 4 ----
+# 导入缓存 / 编辑器数据（可自动重建，体积很大）
+.godot/
+.import/
+export.cfg
+export_presets.cfg
+
+# 自动生成的翻译文件
+*.translation
+
+# Mono / C# 相关
+.mono/
+data_*/
+mono_crash.*.json
+
+# ---- 本机工作数据（不入库，仅保留在磁盘上）----
+# AI 助手的项目记忆 / 会话数据
+.workbuddy-ai/
+# 调试截图（由 --screenshot-* 系列随时重新生成）
+screenshots/
+# Godot 的用户目录（日志 / 着色器缓存），由 build.bat 或调试时产生
+godot_userdata/
+.godot_userdata/
+
+# ---- 打包产物（510MB+，绝不入库）----
+# 双击 build.bat 生成；GitHub 单文件上限 100MB，提交了直接推不上去
+build/
+*.exe
+*.pck
+*.zip
+
+# ---- 系统 / 编辑器 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# ---- 临时文件 ----
+*.tmp
+*.bak
+*~
