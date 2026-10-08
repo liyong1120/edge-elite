@@ -1,6 +1,17 @@
 # 棱锋精英 / EDGE ELITE
 
-基于 **Godot 4.7** 的 5v5 战术射击游戏（磐垒 CT vs 锐刃 T），支持**局域网对战**。
+基于 **Godot 4.7** 的战术射击游戏（磐垒 CT vs 锐刃 T），支持**局域网对战**。
+
+**项目地址**
+
+- GitHub：https://github.com/liyong1120/edge-elite
+- Gitee ：https://gitee.com/my6349/edge-elite
+
+**玩家交流群**
+
+🎮 QQ 群：**棱锋精英**（群号 **479456705**）
+
+欢迎各位爱好者加群一起探讨玩法、反馈问题、交流开服经验。
 
 ---
 
